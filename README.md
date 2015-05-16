@@ -4,9 +4,9 @@ A selection of MaX Saxe Design Web Core web site examples.
 
 Source authoring is a little different in this system.
 
-    Most of the web sites will be source authored in PHP
-    Some of the web sites will be source authored in HHVM & PHP
     A few of the web sites will be source authored in HTML
+    Some of the web sites will be source authored in HHVM & PHP
+    Most of the web sites will be source authored in PHP
     A few of the web sites will be source authored in SHTML
 
 All application web sites will include the index page & the includes folder
